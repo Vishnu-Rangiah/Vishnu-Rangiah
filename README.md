@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a rising senior at UC Davis majoring in Statistics (Data Science) and minoring in Computer Science.
+
+Feel free to contact me with any opportunities or questions at vishnu.rangiah@gmail.com
+
+
 <!--
 **Vishnu-Rangiah/Vishnu-Rangiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
