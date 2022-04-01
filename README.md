@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a senior at UC Davis majoring in Statistics (Data Science) and minoring in Computer Science. Feel free to contact me with any opportunities or questions at vishnu.rangiah@gmail.com
+I'm a recent grad from UC Davis with a major in Statistics (Data Science) and Computer Science minor. Feel free to contact me at vishnu.rangiah@gmail.com
 
 
 <!--
