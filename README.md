@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm a recent grad from UC Davis with a major in Statistics (Data Science) and Computer Science minor. Feel free to contact me at vishnu.rangiah@gmail.com
+
+- 🔭 I am currently working as SWE in ML/AI at Walmart.
+- 🌱 Previously, UC Davis undergrad in Statistics (Data Science) with a Computer Science minor.
+- 💬 Feel free to contact me at vishnu.rangiah@gmail.com
 
 
 <!--
